@@ -1,0 +1,6 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+  </component>
+  <component name="com.a.a.i.a.a.J" enableSqlConsole="false" />
+</application>
