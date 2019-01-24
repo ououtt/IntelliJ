@@ -11,8 +11,8 @@
     <mask>*.mxml</mask>
     <mask>*.py</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.factories</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
