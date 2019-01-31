@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="internals" />
+      <item value="Loop" />
+      <item value="processed" />
+      <item value="Executor" />
+      <item value="Event Loop Group" />
       <item value="Inbound" />
       <item value="stuff" />
       <item value="amount" />
@@ -10,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="7" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
       </map>
     </option>
   </component>
