@@ -1,0 +1,32 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/IdeaProjects/NettyGuide/src/com/phei/netty/protocol/netty/client/NettyClient.java" timestamp="1548934538778">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="16" />
+        <mark key="." line="46" column="16" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" timestamp="1548934964405" />
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>connect</text>
+      </register>
+      <register name="-" type="4">
+        <text>connect</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
