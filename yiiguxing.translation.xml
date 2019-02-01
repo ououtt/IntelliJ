@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="triggered" />
+      <item value="Regardless" />
+      <item value="promise" />
+      <item value="channel" />
       <item value="event Loop" />
       <item value="union" />
       <item value="internals" />
@@ -17,8 +21,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>

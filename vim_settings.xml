@@ -3,28 +3,70 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/NettyGuide/src/com/phei/netty/protocol/netty/client/NettyClient.java" timestamp="1548934538778">
-        <mark key="[" line="46" column="16" />
-        <mark key="]" line="46" column="16" />
-        <mark key="." line="46" column="16" />
+      <file name="$USER_HOME$/IdeaProjects/NettyGuide/src/com/phei/netty/protocol/netty/client/NettyClient.java" timestamp="1548935260104">
+        <mark key="[" line="94" column="4" />
+        <mark key="]" line="80" column="33" />
+        <mark key="." line="80" column="33" />
+        <mark key="^" line="80" column="33" />
       </file>
-      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" timestamp="1548934964405" />
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java" timestamp="1548935392321" />
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/DefaultChannelPipeline.java" timestamp="1548936180173" />
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/nio/NioEventLoop.java" timestamp="1548936758269" />
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/AbstractChannel.java" timestamp="1548935378541" />
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" timestamp="1548936080353">
+        <mark key="'" line="102" column="64" />
+      </file>
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java" timestamp="1548936426286" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="200" column="0" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="212" column="32" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="214" column="32" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="234" column="33" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="295" column="41" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="296" column="23" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="42" column="65" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="43" column="64" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="64" column="53" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="76" column="85" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+      <jump line="102" column="64" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>connect</text>
       </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
       <register name="-" type="4">
         <text>connect</text>
       </register>
+      <register name="/" type="4">
+        <text>con</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>con</last-search>
+      <last-offset />
+      <last-pattern>con</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search>
+        <entry>con</entry>
+      </history-search>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
     </editor>
