@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fulfill C" />
       <item value="triggered" />
       <item value="Regardless" />
       <item value="promise" />
@@ -21,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>
