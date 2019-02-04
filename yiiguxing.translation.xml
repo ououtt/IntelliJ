@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="discarded" />
+      <item value="rewind" />
+      <item value="Sensitive" />
       <item value="bulk" />
       <item value="contiguous" />
       <item value="flip" />
@@ -11,7 +14,6 @@
       <item value="determined" />
       <item value="mutable" />
       <item value="mutation" />
-      <item value="rewind" />
       <item value="upon" />
       <item value="initialized" />
       <item value="newly-allocated" />
@@ -20,7 +22,6 @@
       <item value="depends upon" />
       <item value="initial" />
       <item value="Invariants" />
-      <item value="discarded" />
       <item value="exceeds" />
       <item value="affect" />
       <item value="explicit" />
@@ -50,12 +51,11 @@
       <item value="internals" />
       <item value="Loop" />
       <item value="processed" />
-      <item value="Executor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
       </map>
     </option>
   </component>
