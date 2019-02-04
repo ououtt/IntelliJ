@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Normalize" />
       <item value="discarded" />
       <item value="rewind" />
       <item value="Sensitive" />
@@ -50,12 +51,11 @@
       <item value="union" />
       <item value="internals" />
       <item value="Loop" />
-      <item value="processed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="73" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
