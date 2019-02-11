@@ -9,11 +9,13 @@
         <mark key="." line="80" column="33" />
         <mark key="^" line="80" column="33" />
       </file>
+      <file name="$USER_HOME$/sxc/item-center/item-service/item-service-core/src/main/java/com/sxc/jotunheim/itemservice/application/provider/impl/baseprop/BasePropQueryProviderImpl.java" timestamp="1549856640202" />
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/ByteBuf.java" timestamp="1549291220062">
         <mark key="'" line="1297" column="41" />
         <mark key="[" line="1512" column="83" />
       </file>
       <file name="$USER_HOME$/sxc/item-center/item-service/item-service-client/pom.xml" timestamp="1549855555833" />
+      <file name="$USER_HOME$/sxc/item-center/item-service/item-service-client/src/main/java/com/sxc/jotunheim/itemservice/provider/baseprop/BasePropQueryProvider.java" timestamp="1549856631896" />
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/resources/conf/dubbo.properties" timestamp="1549007806614">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
@@ -33,6 +35,8 @@
         <mark key="^" line="24" column="7" />
         <mark key="." line="24" column="7" />
       </file>
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/AbstractReferenceCountedByteBuf.java" timestamp="1549857647789" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicIntegerFieldUpdater.java" timestamp="1549857039492" />
     </filemarks>
     <jumps>
       <jump line="200" column="0" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
