@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stack" />
+      <item value="padding" />
+      <item value="Arena" />
+      <item value="Chunk" />
+      <item value="duplicate" />
       <item value="capacity" />
       <item value="destination" />
       <item value="ensure A" />
@@ -46,16 +51,11 @@
       <item value="initial" />
       <item value="Invariants" />
       <item value="exceeds" />
-      <item value="affect" />
-      <item value="explicit" />
-      <item value="transfer" />
-      <item value="Relative" />
-      <item value="categories" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="99" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
       </map>
     </option>
   </component>
