@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capacity" />
+      <item value="destination" />
       <item value="ensure A" />
       <item value="truncated" />
-      <item value="capacity" />
       <item value="Adjusts" />
       <item value="composite D" />
       <item value="allocate" />
@@ -50,12 +51,11 @@
       <item value="transfer" />
       <item value="Relative" />
       <item value="categories" />
-      <item value="subclass" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="99" />
+        <entry key="ENGLISH" value="100" />
       </map>
     </option>
   </component>
