@@ -3,48 +3,34 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/NettyGuide/src/com/phei/netty/protocol/netty/client/NettyClient.java" timestamp="1548935260104">
-        <mark key="[" line="94" column="4" />
-        <mark key="]" line="80" column="33" />
-        <mark key="." line="80" column="33" />
-        <mark key="^" line="80" column="33" />
-      </file>
       <file name="$USER_HOME$/sxc/item-center/item-service/item-service-client/pom.xml" timestamp="1549855555833" />
-      <file name="$USER_HOME$/maven/localRepository/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/entity/Example.java" timestamp="1549874285968" />
-      <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/resources/conf/config.properties" timestamp="1549007797052">
-        <mark key="[" line="99" column="25" />
-        <mark key="]" line="99" column="26" />
-        <mark key="." line="99" column="26" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/test/src/main/java/Test.java" timestamp="1549107305392">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="24" column="7" />
-        <mark key="^" line="24" column="7" />
-        <mark key="." line="24" column="7" />
-      </file>
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/ByteBufAllocator.java" timestamp="1549877663291" />
       <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/infrastructure/repository/impl/sorting/SortingListQueryRepositoryImpl.java" timestamp="1549865547923" />
-      <file name="$USER_HOME$/sxc/stock-service/stock-service/src/main/java/com/sxc/jotunheim/stockservice/domain/infrastructure/domain/service/StockTakeServiceImpl.java" timestamp="1549873943627" />
       <file name="$USER_HOME$/sxc/item-center/item-service/item-service-core/src/main/java/com/sxc/jotunheim/itemservice/application/provider/impl/baseprop/BasePropQueryProviderImpl.java" timestamp="1549856640202" />
       <file name="$USER_HOME$/sxc/stock-service/stock-service/src/main/java/com/sxc/jotunheim/stockservice/domain/infrastructure/domain/service/StockServiceImpl.java" timestamp="1549874237146" />
-      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/ByteBuf.java" timestamp="1549291220062">
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/ByteBuf.java" timestamp="1549877897666">
         <mark key="'" line="1297" column="41" />
         <mark key="[" line="1512" column="83" />
       </file>
       <file name="$USER_HOME$/sxc/item-center/item-service/item-service-client/src/main/java/com/sxc/jotunheim/itemservice/provider/baseprop/BasePropQueryProvider.java" timestamp="1549856631896" />
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/UnpooledHeapByteBuf.java" timestamp="1549877788457" />
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/AbstractReferenceCountedByteBuf.java" timestamp="1549877572706">
+        <mark key="[" line="71" column="13" />
+        <mark key="]" line="88" column="12" />
+        <mark key="^" line="88" column="12" />
+        <mark key="." line="88" column="12" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicIntegerFieldUpdater.java" timestamp="1549857039492" />
+      <file name="$USER_HOME$/sxc/stock-service/stock-service/src/main/java/com/sxc/jotunheim/stockservice/domain/infrastructure/domain/model/entity/DeliveryStockRepositoryImpl.java" timestamp="1549874367876" />
+      <file name="$USER_HOME$/maven/localRepository/tk/mybatis/mapper/3.3.9/mapper-3.3.9-sources.jar!/tk/mybatis/mapper/entity/Example.java" timestamp="1549874285968" />
+      <file name="$USER_HOME$/sxc/stock-service/stock-service/src/main/java/com/sxc/jotunheim/stockservice/domain/infrastructure/domain/service/StockTakeServiceImpl.java" timestamp="1549873943627" />
       <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/infrastructure/mq/consumer/SortingDemandConsumerProcess.java" timestamp="1549864899977" />
       <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/application/provider/impl/sorting/SortingListProviderImpl.java" timestamp="1549873749454" />
       <file name="$USER_HOME$/maven/localRepository/com/github/pagehelper/pagehelper/5.1.2/pagehelper-5.1.2-sources.jar!/com/github/pagehelper/PageInfo.java" timestamp="1549865522532" />
-      <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/resources/conf/dubbo.properties" timestamp="1549007806614">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-      </file>
+      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/AbstractByteBuf.java" timestamp="1549877987191" />
       <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/infrastructure/repository/impl/sorting/SortingDemandRepositoryImpl.java" timestamp="1549865194432" />
       <file name="$USER_HOME$/sxc/stock-service/stock-service/src/main/java/com/sxc/jotunheim/stockservice/domain/infrastructure/domain/application/StockController.java" timestamp="1549874215462" />
       <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-client/src/main/java/com/sxc/jotunheim/logistic/client/constant/sorting/SortingDemandEnum.java" timestamp="1549865158517" />
-      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/AbstractReferenceCountedByteBuf.java" timestamp="1549876433639" />
-      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicIntegerFieldUpdater.java" timestamp="1549857039492" />
-      <file name="$USER_HOME$/sxc/stock-service/stock-service/src/main/java/com/sxc/jotunheim/stockservice/domain/infrastructure/domain/model/entity/DeliveryStockRepositoryImpl.java" timestamp="1549874367876" />
     </filemarks>
     <jumps>
       <jump line="200" column="0" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
