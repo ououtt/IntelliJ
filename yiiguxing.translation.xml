@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="threshold" />
       <item value="mandate" />
       <item value="leak" />
       <item value="Swapped" />
@@ -50,12 +51,11 @@
       <item value="specific" />
       <item value="primitive" />
       <item value="fulfill C" />
-      <item value="triggered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="81" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
