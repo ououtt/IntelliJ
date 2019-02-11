@@ -30,13 +30,15 @@
         <mark key="[" line="1512" column="83" />
       </file>
       <file name="$USER_HOME$/sxc/item-center/item-service/item-service-client/src/main/java/com/sxc/jotunheim/itemservice/provider/baseprop/BasePropQueryProvider.java" timestamp="1549856631896" />
-      <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/infrastructure/mq/consumer/SortingDemandConsumerProcess.java" timestamp="1549864580206" />
+      <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/infrastructure/mq/consumer/SortingDemandConsumerProcess.java" timestamp="1549864899977" />
+      <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/application/provider/impl/sorting/SortingListProviderImpl.java" timestamp="1549865268828" />
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/resources/conf/dubbo.properties" timestamp="1549007806614">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/infrastructure/repository/impl/sorting/SortingDemandRepositoryImpl.java" timestamp="1549864602602" />
+      <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-core/src/main/java/com/sxc/jotunheim/logistic/service/infrastructure/repository/impl/sorting/SortingDemandRepositoryImpl.java" timestamp="1549865194432" />
+      <file name="$USER_HOME$/sxc/logistics-center/logistic-service/logistic-client/src/main/java/com/sxc/jotunheim/logistic/client/constant/sorting/SortingDemandEnum.java" timestamp="1549865158517" />
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/AbstractReferenceCountedByteBuf.java" timestamp="1549857647789" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/src.zip!/java/util/concurrent/atomic/AtomicIntegerFieldUpdater.java" timestamp="1549857039492" />
     </filemarks>
