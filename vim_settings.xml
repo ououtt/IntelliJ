@@ -4,28 +4,33 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/PooledByteBufAllocator.java" timestamp="1549885883893" />
+      <file name="$USER_HOME$/sxc/sxc-dubbo-router/dubbo-router-client-1.0.0/src/main/java/com/sxc/dubbo/router/client/RouterProxyHandler.java" timestamp="1549954510523">
+        <mark key="[" line="48" column="33" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/PooledByteBuf.java" timestamp="1549884190436" />
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/PoolChunk.java" timestamp="1549883996091" />
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/PoolArena.java" timestamp="1549882962496" />
-      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/ByteBuf.java" timestamp="1549880632251">
-        <mark key="'" line="1297" column="41" />
-        <mark key="[" line="1512" column="83" />
-      </file>
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/UnpooledHeapByteBuf.java" timestamp="1549880758518" />
+      <file name="$USER_HOME$/maven/localRepository/com/sxc/dubbo-router-client/1.1.0-SNAPSHOT/dubbo-router-client-1.1.0-20190130.131252-8.jar!/com/sxc/dubbo/router/filter/RouterFilter.class" timestamp="1549954400365" />
+      <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/resources/conf/dubbo.properties" timestamp="1549954220406">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/util/Recycler.java" timestamp="1549884502036" />
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/java/com/sxc/web/controller/CenterhouseControler.java" timestamp="1549938574444" />
-      <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/AbstractReferenceCountedByteBuf.java" timestamp="1549877572706">
-        <mark key="[" line="71" column="13" />
-        <mark key="]" line="88" column="12" />
-        <mark key="^" line="88" column="12" />
-        <mark key="." line="88" column="12" />
-      </file>
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/java/com/sxc/web/controller/stockTaking/StockTakingController.java" timestamp="1549938401512" />
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/ByteBufUtil.java" timestamp="1549886981648" />
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/PoolSubpage.java" timestamp="1549883863499" />
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/PooledDirectByteBuf.java" timestamp="1549884593569" />
+      <file name="$USER_HOME$/sxc/sxc-dubbo-router/dubbo-router-client-1.1.0/src/main/java/com/sxc/dubbo/router/filter/RouterFilter.java" timestamp="1549954425698">
+        <mark key="[" line="38" column="18" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/UnpooledDirectByteBuf.java" timestamp="1549882807906" />
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/AbstractByteBufAllocator.java" timestamp="1549886861697" />
+      <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/resources/conf/config.properties" timestamp="1549954225772">
+        <mark key="[" line="99" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="200" column="0" filename="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/bootstrap/Bootstrap.java" />
