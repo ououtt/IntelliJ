@@ -14,6 +14,11 @@
       <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/web/pom.xml" timestamp="1549957655771">
         <mark key="[" line="173" column="21" />
       </file>
+      <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/resources/conf/dubbo.properties" timestamp="1549954220406">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+      </file>
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/java/com/sxc/web/controller/CenterhouseControler.java" timestamp="1549955830980">
         <mark key="[" line="1877" column="63" />
         <mark key="]" line="1920" column="24" />
@@ -23,6 +28,11 @@
       <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/pom.xml" timestamp="1549959212827" />
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/java/com/sxc/web/controller/stockTaking/StockTakingController.java" timestamp="1549938401512" />
       <file name="$USER_HOME$/sxc/fury/wakanda-api/service/src/main/java/com/sxc/sellerplatform/service/SPUserService.java" timestamp="1549956422648" />
+      <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/web/src/main/resources/conf/config.properties" timestamp="1549960450204">
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+      </file>
       <file name="$USER_HOME$/sxc/sxc-dubbo-router/dubbo-router-client-1.1.0/src/main/java/com/sxc/dubbo/router/filter/RouterFilter.java" timestamp="1549954425698">
         <mark key="[" line="38" column="18" />
       </file>
@@ -81,13 +91,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>connect</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>connect</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>put</text>
