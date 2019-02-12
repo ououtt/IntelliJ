@@ -28,7 +28,7 @@
       <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/pom.xml" timestamp="1549959212827" />
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/java/com/sxc/web/controller/stockTaking/StockTakingController.java" timestamp="1549938401512" />
       <file name="$USER_HOME$/sxc/fury/wakanda-api/service/src/main/java/com/sxc/sellerplatform/service/SPUserService.java" timestamp="1549956422648" />
-      <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/web/src/main/resources/conf/config.properties" timestamp="1549960450204">
+      <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/web/src/main/resources/conf/config.properties" timestamp="1549961065181">
         <mark key="[" line="60" column="35" />
         <mark key="]" line="60" column="35" />
         <mark key="." line="60" column="35" />
@@ -41,7 +41,7 @@
       </file>
       <file name="$USER_HOME$/sxc/sxc/Ironman/pom.xml" timestamp="1549954903064" />
       <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/config/src/main/resources/apidef/com.sxc.sellerplatform.service.impl.SPDirectServiceImpl.xml" timestamp="1549957606566" />
-      <file name="$USER_HOME$/sxc/fury/wakanda-api/service/src/main/java/com/sxc/sellerplatform/service/impl/SPDirectServiceImpl.java" timestamp="1549957573602">
+      <file name="$USER_HOME$/sxc/fury/wakanda-api/service/src/main/java/com/sxc/sellerplatform/service/impl/SPDirectServiceImpl.java" timestamp="1549961498385">
         <mark key="[" line="237" column="16" />
         <mark key="]" line="234" column="40" />
         <mark key="^" line="234" column="40" />
