@@ -14,17 +14,13 @@
       <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/web/pom.xml" timestamp="1549957655771">
         <mark key="[" line="173" column="21" />
       </file>
-      <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/resources/conf/dubbo.properties" timestamp="1549954220406">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="8" column="27" />
-      </file>
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/java/com/sxc/web/controller/CenterhouseControler.java" timestamp="1549955830980">
         <mark key="[" line="1877" column="63" />
         <mark key="]" line="1920" column="24" />
         <mark key="^" line="1920" column="24" />
         <mark key="." line="1920" column="24" />
       </file>
+      <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/pom.xml" timestamp="1549959212827" />
       <file name="$USER_HOME$/sxc/sxc/Ironman/src/main/java/com/sxc/web/controller/stockTaking/StockTakingController.java" timestamp="1549938401512" />
       <file name="$USER_HOME$/sxc/fury/wakanda-api/service/src/main/java/com/sxc/sellerplatform/service/SPUserService.java" timestamp="1549956422648" />
       <file name="$USER_HOME$/sxc/sxc-dubbo-router/dubbo-router-client-1.1.0/src/main/java/com/sxc/dubbo/router/filter/RouterFilter.java" timestamp="1549954425698">
@@ -48,7 +44,7 @@
       <file name="$USER_HOME$/sxc/bifrost/wsop-tchalla/web/src/main/resources/conf/dubbo.properties" timestamp="1549957713243">
         <mark key="[" line="6" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549958945707">
+      <file name="/Dummy.txt" timestamp="1549959173814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.ideaLibSources/netty-all-5.0.0.Alpha1-sources.jar!/io/netty/buffer/ByteBufUtil.java" timestamp="1549886981648" />
