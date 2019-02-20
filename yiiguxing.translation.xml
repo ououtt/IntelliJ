@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="improves" />
+      <item value="spin lock" />
+      <item value="spin" />
+      <item value="Spin" />
+      <item value="Amount" />
+      <item value="interest" />
+      <item value="prefer" />
       <item value="assemble" />
       <item value="Promise" />
       <item value="attempts" />
@@ -44,18 +51,11 @@
       <item value="retain" />
       <item value="platform" />
       <item value="performance" />
-      <item value="designated" />
-      <item value="utility" />
-      <item value="threshold" />
-      <item value="mandate" />
-      <item value="leak" />
-      <item value="Swapped" />
-      <item value="Derived" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="139" />
+        <entry key="ENGLISH" value="140" />
       </map>
     </option>
   </component>
