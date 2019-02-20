@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Promise" />
+      <item value="attempts" />
+      <item value="subsequent" />
       <item value="estimator" />
       <item value="nexus" />
       <item value="Facade" />
@@ -48,14 +51,11 @@
       <item value="Swapped" />
       <item value="Derived" />
       <item value="Derive" />
-      <item value="medium" />
-      <item value="slice" />
-      <item value="Normalize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
-        <entry key="ENGLISH" value="128" />
+        <entry key="CHINESE" value="130" />
+        <entry key="ENGLISH" value="131" />
       </map>
     </option>
   </component>
