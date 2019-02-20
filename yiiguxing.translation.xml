@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decoder" />
       <item value="sensitive" />
       <item value="encryption" />
       <item value="asynchronous" />
@@ -50,12 +51,11 @@
       <item value="nexus" />
       <item value="Facade" />
       <item value="inquire" />
-      <item value="Inquire" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
       </map>
     </option>
   </component>
