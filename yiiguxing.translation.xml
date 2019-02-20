@@ -1,6 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="established" />
+      <item value="Internal" />
+      <item value="I/O Request" />
+      <item value="propagation" />
+      <item value="To forward" />
+      <item value="arbitrary" />
+      <item value="forward" />
+      <item value="trigger" />
+      <item value="placed" />
+      <item value="forwarded" />
+      <item value="typically" />
+      <item value="diagram" />
+      <item value="interact" />
+      <item value="Intercepting" />
+      <item value="form" />
+      <item value="advanced" />
+      <item value="via" />
+      <item value="inbound" />
+      <item value="actual" />
       <item value="Channel" />
       <item value="Outbound" />
       <item value="improves" />
@@ -32,30 +51,11 @@
       <item value="guarantee" />
       <item value="immediately" />
       <item value="asynchronous" />
-      <item value="requests" />
-      <item value="associated" />
-      <item value="Channel Pipeline" />
-      <item value="provides" />
-      <item value="Stack" />
-      <item value="padding" />
-      <item value="Arena" />
-      <item value="Chunk" />
-      <item value="duplicate" />
-      <item value="capacity" />
-      <item value="destination" />
-      <item value="ensure A" />
-      <item value="truncated" />
-      <item value="Adjusts" />
-      <item value="composite D" />
-      <item value="allocate" />
-      <item value="allocat" />
-      <item value="deallocate" />
-      <item value="retain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="162" />
+        <entry key="ENGLISH" value="163" />
       </map>
     </option>
   </component>
