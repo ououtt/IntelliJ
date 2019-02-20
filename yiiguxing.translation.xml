@@ -1,10 +1,24 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sensitive" />
+      <item value="encryption" />
+      <item value="asynchronous" />
+      <item value="time-consuming" />
+      <item value="represented" />
+      <item value="characteristics" />
+      <item value="mileage" />
+      <item value="following" />
+      <item value="typical" />
+      <item value="supposed" />
+      <item value="propagation" />
+      <item value="briefly" />
+      <item value="Forwarding" />
+      <item value="top-down" />
+      <item value="diagram" />
       <item value="established" />
       <item value="Internal" />
       <item value="I/O Request" />
-      <item value="propagation" />
       <item value="To forward" />
       <item value="arbitrary" />
       <item value="forward" />
@@ -12,7 +26,6 @@
       <item value="placed" />
       <item value="forwarded" />
       <item value="typically" />
-      <item value="diagram" />
       <item value="interact" />
       <item value="Intercepting" />
       <item value="form" />
@@ -38,24 +51,11 @@
       <item value="Facade" />
       <item value="inquire" />
       <item value="Inquire" />
-      <item value="Query" />
-      <item value="exposes" />
-      <item value="Downcast to" />
-      <item value="Downcast" />
-      <item value="BEEP" />
-      <item value="implementation" />
-      <item value="transport" />
-      <item value="semantics" />
-      <item value="linkplain" />
-      <item value="hierarchical" />
-      <item value="guarantee" />
-      <item value="immediately" />
-      <item value="asynchronous" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="163" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
       </map>
     </option>
   </component>
