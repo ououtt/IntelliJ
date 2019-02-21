@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cumulation" />
+      <item value="Stack" />
       <item value="inherit" />
       <item value="Decoder" />
       <item value="sensitive" />
@@ -49,13 +51,11 @@
       <item value="attempts" />
       <item value="subsequent" />
       <item value="estimator" />
-      <item value="nexus" />
-      <item value="Facade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
-        <entry key="ENGLISH" value="182" />
+        <entry key="CHINESE" value="183" />
+        <entry key="ENGLISH" value="184" />
       </map>
     </option>
   </component>
