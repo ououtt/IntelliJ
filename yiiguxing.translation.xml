@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Estimate" />
       <item value="Share" />
       <item value="jotunheim" />
       <item value="update" />
@@ -50,7 +51,6 @@
       <item value="trigger" />
       <item value="placed" />
       <item value="forwarded" />
-      <item value="typically" />
     </histories>
     <option name="languageScores">
       <map>
