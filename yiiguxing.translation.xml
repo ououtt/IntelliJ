@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="From" />
+      <item value="Lite" />
       <item value="Estimate" />
       <item value="Share" />
       <item value="jotunheim" />
@@ -49,16 +51,15 @@
       <item value="arbitrary" />
       <item value="forward" />
       <item value="trigger" />
-      <item value="placed" />
-      <item value="forwarded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="201" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="SWEDISH" value="1" />
       </map>
     </option>
   </component>
