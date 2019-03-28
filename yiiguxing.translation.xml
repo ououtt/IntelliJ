@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reply" />
       <item value="From" />
       <item value="Lite" />
       <item value="Estimate" />
@@ -50,12 +51,11 @@
       <item value="To forward" />
       <item value="arbitrary" />
       <item value="forward" />
-      <item value="trigger" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
