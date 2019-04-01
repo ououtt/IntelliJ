@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="inlet" />
       <item value="reply" />
       <item value="From" />
       <item value="Lite" />
@@ -50,7 +51,6 @@
       <item value="I/O Request" />
       <item value="To forward" />
       <item value="arbitrary" />
-      <item value="forward" />
     </histories>
     <option name="languageScores">
       <map>
