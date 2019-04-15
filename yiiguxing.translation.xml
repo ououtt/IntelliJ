@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Fair" />
       <item value="CAPACITY" />
       <item value="INFRASTRUCTURE" />
       <item value="Dialog" />
@@ -50,12 +51,11 @@
       <item value="typical" />
       <item value="supposed" />
       <item value="propagation" />
-      <item value="briefly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="209" />
-        <entry key="ENGLISH" value="210" />
+        <entry key="CHINESE" value="210" />
+        <entry key="ENGLISH" value="211" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
