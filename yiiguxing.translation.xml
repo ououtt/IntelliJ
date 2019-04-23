@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Facade" />
+      <item value="Queue" />
       <item value="drain" />
       <item value="captical" />
       <item value="Fair" />
@@ -49,13 +51,11 @@
       <item value="represented" />
       <item value="characteristics" />
       <item value="mileage" />
-      <item value="following" />
-      <item value="typical" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="212" />
-        <entry key="ENGLISH" value="213" />
+        <entry key="CHINESE" value="214" />
+        <entry key="ENGLISH" value="215" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
