@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="eval" />
       <item value="Facade" />
       <item value="Queue" />
       <item value="drain" />
@@ -50,12 +51,11 @@
       <item value="time-consuming" />
       <item value="represented" />
       <item value="characteristics" />
-      <item value="mileage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="215" />
+        <entry key="ENGLISH" value="216" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
