@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transaction" />
+      <item value="provides" />
       <item value="intersect" />
       <item value="unfreeze" />
       <item value="eval" />
@@ -49,13 +51,11 @@
       <item value="Decoder" />
       <item value="sensitive" />
       <item value="encryption" />
-      <item value="asynchronous" />
-      <item value="time-consuming" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="217" />
-        <entry key="ENGLISH" value="218" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
