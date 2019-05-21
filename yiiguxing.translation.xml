@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="left" />
       <item value="period" />
       <item value="Operate" />
       <item value="immediate" />
@@ -50,12 +51,11 @@
       <item value="Factorial" />
       <item value="Due" />
       <item value="Pass" />
-      <item value="ored" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="227" />
+        <entry key="ENGLISH" value="228" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
