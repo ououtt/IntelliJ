@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stockpile" />
       <item value="Idle" />
       <item value="trigger" />
       <item value="period" />
@@ -50,12 +51,11 @@
       <item value="Chunked" />
       <item value="¥File" />
       <item value="interrupted" />
-      <item value="Factorial" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
