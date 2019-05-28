@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lex" />
+      <item value="intersect" />
       <item value="stockpile" />
       <item value="Idle" />
       <item value="trigger" />
@@ -13,7 +15,6 @@
       <item value="fill" />
       <item value="Transaction" />
       <item value="provides" />
-      <item value="intersect" />
       <item value="unfreeze" />
       <item value="eval" />
       <item value="Facade" />
@@ -50,12 +51,11 @@
       <item value="Cors" />
       <item value="Chunked" />
       <item value="¥File" />
-      <item value="interrupted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="232" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
