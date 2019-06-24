@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Transport" />
+      <item value="delimiters" />
       <item value="Decoder" />
       <item value="Concurrent" />
       <item value="offset" />
@@ -49,13 +51,11 @@
       <item value="Mutable" />
       <item value="previous" />
       <item value="aggregate" />
-      <item value="Credential" />
-      <item value="redentials" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="235" />
-        <entry key="ENGLISH" value="236" />
+        <entry key="CHINESE" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
