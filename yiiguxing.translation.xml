@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Reactor" />
       <item value="Transport" />
       <item value="delimiters" />
       <item value="Decoder" />
@@ -50,12 +51,11 @@
       <item value="Suspend" />
       <item value="Mutable" />
       <item value="previous" />
-      <item value="aggregate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
