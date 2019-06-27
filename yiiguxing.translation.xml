@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Business" />
+      <item value="bussiness" />
       <item value="Identity" />
       <item value="Reactor" />
       <item value="Transport" />
@@ -49,13 +51,11 @@
       <item value="ALLOCATOR" />
       <item value="Duplex" />
       <item value="parallel" />
-      <item value="Suspend" />
-      <item value="Mutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
