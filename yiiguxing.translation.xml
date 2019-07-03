@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cumulation" />
+      <item value="increment" />
       <item value="observe" />
       <item value="garbage" />
       <item value="less" />
@@ -10,7 +12,6 @@
       <item value="Protection" />
       <item value="Reentry" />
       <item value="Removal" />
-      <item value="cumulation" />
       <item value="Sensible" />
       <item value="Idle" />
       <item value="Business" />
@@ -50,12 +51,11 @@
       <item value="Unoin" />
       <item value="country" />
       <item value="quote" />
-      <item value="inlet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="253" />
-        <entry key="ENGLISH" value="254" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="256" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
