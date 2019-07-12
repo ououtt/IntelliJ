@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Akka" />
       <item value="Mask" />
       <item value="Alignment" />
       <item value="cache Alignment" />
@@ -50,15 +51,15 @@
       <item value="captical" />
       <item value="Fair" />
       <item value="CAPACITY" />
-      <item value="INFRASTRUCTURE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="262" />
+        <entry key="CHINESE" value="263" />
         <entry key="ENGLISH" value="263" />
         <entry key="ARABIC" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
