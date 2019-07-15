@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="enqueued" />
       <item value="Akka" />
       <item value="Mask" />
       <item value="Alignment" />
@@ -50,7 +51,6 @@
       <item value="drain" />
       <item value="captical" />
       <item value="Fair" />
-      <item value="CAPACITY" />
     </histories>
     <option name="languageScores">
       <map>
