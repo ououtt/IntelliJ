@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="server Type" />
+      <item value="ordinal" />
+      <item value="Handler" />
+      <item value="Handshake" />
       <item value="enqueued" />
       <item value="Akka" />
       <item value="Mask" />
@@ -47,16 +51,13 @@
       <item value="unfreeze" />
       <item value="eval" />
       <item value="Facade" />
-      <item value="Queue" />
-      <item value="drain" />
-      <item value="captical" />
-      <item value="Fair" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="263" />
-        <entry key="ENGLISH" value="263" />
+        <entry key="ENGLISH" value="264" />
         <entry key="ARABIC" value="1" />
+        <entry key="DANISH" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
