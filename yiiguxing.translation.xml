@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Composite" />
+      <item value="Present" />
+      <item value="Compound" />
+      <item value="explicitly" />
+      <item value="Experimental" />
       <item value="service" />
       <item value="timer" />
       <item value="exposure" />
@@ -31,7 +36,6 @@
       <item value="cache Alignment" />
       <item value="dynamically" />
       <item value="underflow" />
-      <item value="Composite" />
       <item value="cumulation" />
       <item value="increment" />
       <item value="observe" />
@@ -47,15 +51,11 @@
       <item value="Idle" />
       <item value="Business" />
       <item value="bussiness" />
-      <item value="Identity" />
-      <item value="Reactor" />
-      <item value="Transport" />
-      <item value="delimiters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="300" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="306" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
