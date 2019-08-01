@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kryo" />
       <item value="Eager" />
       <item value="associated" />
       <item value="phased" />
@@ -50,11 +51,10 @@
       <item value="dynamically" />
       <item value="underflow" />
       <item value="cumulation" />
-      <item value="increment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
+        <entry key="CHINESE" value="320" />
         <entry key="ENGLISH" value="320" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
@@ -62,6 +62,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
+        <entry key="GREEK" value="1" />
         <entry key="VIETNAMESE" value="1" />
       </map>
     </option>
