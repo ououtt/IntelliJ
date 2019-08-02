@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sensible" />
+      <item value="Idle" />
       <item value="Generic" />
       <item value="Unsatisfied" />
       <item value="Candidate" />
@@ -49,13 +51,11 @@
       <item value="via" />
       <item value="Weekend" />
       <item value="field" />
-      <item value="indicates" />
-      <item value="Multiple" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="339" />
-        <entry key="ENGLISH" value="340" />
+        <entry key="CHINESE" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
