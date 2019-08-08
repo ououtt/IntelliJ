@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Candidate" />
+      <item value="determine" />
       <item value="traversing" />
       <item value="merged" />
       <item value="assumably" />
@@ -14,7 +16,6 @@
       <item value="applicable" />
       <item value="decorate" />
       <item value="modified" />
-      <item value="Candidate" />
       <item value="Element" />
       <item value="synthetic" />
       <item value="enforce" />
@@ -50,12 +51,11 @@
       <item value="eager" />
       <item value="serialization" />
       <item value="alternative" />
-      <item value="operating on" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="383" />
-        <entry key="ENGLISH" value="384" />
+        <entry key="CHINESE" value="385" />
+        <entry key="ENGLISH" value="386" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
