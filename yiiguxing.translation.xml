@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manually" />
+      <item value="Eagerly" />
       <item value="Disposable" />
       <item value="Exposure" />
       <item value="Candidate" />
@@ -49,13 +51,11 @@
       <item value="Capable" />
       <item value="corresponding" />
       <item value="candidate" />
-      <item value="eager class" />
-      <item value="eager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
