@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="obtained" />
+      <item value="assumably" />
       <item value="Single" />
       <item value="manually" />
       <item value="Eagerly" />
@@ -10,7 +12,6 @@
       <item value="determine" />
       <item value="traversing" />
       <item value="merged" />
-      <item value="assumably" />
       <item value="shared" />
       <item value="canonical" />
       <item value="Fallback" />
@@ -50,16 +51,15 @@
       <item value="Generic" />
       <item value="Unsatisfied" />
       <item value="Capable" />
-      <item value="corresponding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="392" />
+        <entry key="ENGLISH" value="393" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
-        <entry key="PORTUGUESE" value="2" />
+        <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="1" />
         <entry key="SWEDISH" value="1" />
         <entry key="GREEK" value="1" />
