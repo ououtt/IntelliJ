@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="acquire" />
       <item value="exclusive" />
       <item value="blocking" />
       <item value="priority" />
@@ -50,12 +51,11 @@
       <item value="external" />
       <item value="INFRASTRUCTURE" />
       <item value="Delegating" />
-      <item value="customize" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="409" />
-        <entry key="ENGLISH" value="410" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
