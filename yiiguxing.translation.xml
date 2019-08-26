@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="exclusive" />
       <item value="blocking" />
       <item value="priority" />
       <item value="shared" />
@@ -50,12 +51,11 @@
       <item value="INFRASTRUCTURE" />
       <item value="Delegating" />
       <item value="customize" />
-      <item value="omitted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
