@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="phase" />
+      <item value="initializing" />
+      <item value="underlying" />
       <item value="unique" />
       <item value="acquire" />
       <item value="exclusive" />
@@ -34,7 +37,6 @@
       <item value="canonical" />
       <item value="Fallback" />
       <item value="derived" />
-      <item value="phase" />
       <item value="Manual" />
       <item value="Overload" />
       <item value="applicable" />
@@ -49,13 +51,11 @@
       <item value="infer" />
       <item value="indicates" />
       <item value="demarcation" />
-      <item value="external" />
-      <item value="INFRASTRUCTURE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="411" />
-        <entry key="ENGLISH" value="412" />
+        <entry key="CHINESE" value="414" />
+        <entry key="ENGLISH" value="415" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
