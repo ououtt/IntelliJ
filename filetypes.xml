@@ -1,6 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="spib" type="PLAIN_TEXT" />
+      <mapping ext="spia" type="PLAIN_TEXT" />
       <mapping ext="spitest" type="PLAIN_TEXT" />
       <mapping ext="spitest2" type="PLAIN_TEXT" />
       <mapping ext="2018-05-29" type="PLAIN_TEXT" />
