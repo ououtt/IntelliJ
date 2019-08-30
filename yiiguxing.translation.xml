@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LEGACY" />
       <item value="initialization" />
       <item value="eager" />
       <item value="perform" />
@@ -50,12 +51,11 @@
       <item value="modified" />
       <item value="Element" />
       <item value="synthetic" />
-      <item value="enforce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="419" />
-        <entry key="ENGLISH" value="420" />
+        <entry key="CHINESE" value="420" />
+        <entry key="ENGLISH" value="421" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
