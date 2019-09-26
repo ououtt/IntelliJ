@@ -1,6 +1,8 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="Learning_Akka_Code" firstStartUp="false" />
+    <entry projectName="akka-db" firstStartUp="false" />
     <entry projectName="interaction-service" firstStartUp="false" />
     <entry projectName="jubo-chat-newserver" firstStartUp="false" />
     <entry projectName="user-service" firstStartUp="false" />
