@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectName="interaction-service" firstStartUp="false" />
     <entry projectName="jubo-chat-newserver" firstStartUp="false" />
     <entry projectName="user-service" firstStartUp="false" />
   </component>
