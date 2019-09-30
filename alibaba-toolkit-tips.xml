@@ -7,6 +7,7 @@
     <entry projectName="dubbotrace" firstStartUp="false" />
     <entry projectName="interaction-service" firstStartUp="false" />
     <entry projectName="jubo-chat-newserver" firstStartUp="false" />
+    <entry projectName="learn-akka" firstStartUp="false" />
     <entry projectName="user-service" firstStartUp="false" />
   </component>
 </application>
