@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Submit" />
+      <item value="Quarantined" />
       <item value="Delivery" />
       <item value="gurantine" />
       <item value="Zombie" />
@@ -49,13 +51,11 @@
       <item value="exclusive" />
       <item value="blocking" />
       <item value="priority" />
-      <item value="shared" />
-      <item value="Uninterruptibly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
