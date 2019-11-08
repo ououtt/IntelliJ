@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="spib" type="PLAIN_TEXT" />
       <mapping ext="spia" type="PLAIN_TEXT" />
       <mapping ext="spitest" type="PLAIN_TEXT" />
