@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="phase" />
+      <item value="state" />
       <item value="condition" />
       <item value="nominated" />
       <item value="STABLE" />
@@ -49,13 +51,11 @@
       <item value="executed" />
       <item value="stage" />
       <item value="Stage" />
-      <item value="underlying" />
-      <item value="Extra" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="483" />
-        <entry key="ENGLISH" value="484" />
+        <entry key="CHINESE" value="486" />
+        <entry key="ENGLISH" value="487" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
