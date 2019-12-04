@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STABLE" />
+      <item value="CANCELLED" />
+      <item value="ABORTED" />
+      <item value="particular" />
       <item value="Shield" />
       <item value="cumulation" />
       <item value="Pipe" />
@@ -47,15 +51,11 @@
       <item value="Extra" />
       <item value="post" />
       <item value="Partial" />
-      <item value="poison" />
-      <item value="escalate" />
-      <item value="Either" />
-      <item value="bound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="477" />
-        <entry key="ENGLISH" value="478" />
+        <entry key="CHINESE" value="481" />
+        <entry key="ENGLISH" value="482" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
