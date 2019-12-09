@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Increment" />
       <item value="assigning" />
       <item value="generated" />
       <item value="deletion" />
@@ -50,12 +51,11 @@
       <item value="eventual" />
       <item value="Compose" />
       <item value="completion" />
-      <item value="exceptional" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
-        <entry key="ENGLISH" value="492" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="493" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
