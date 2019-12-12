@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="suspend" />
       <item value="emitter" />
       <item value="collision" />
       <item value="tolerations" />
@@ -50,12 +51,11 @@
       <item value="Orphan" />
       <item value="crumb" />
       <item value="Boxed Unit" />
-      <item value="Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="496" />
-        <entry key="ENGLISH" value="497" />
+        <entry key="CHINESE" value="497" />
+        <entry key="ENGLISH" value="498" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
