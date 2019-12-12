@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="destroy" />
       <item value="destory" />
       <item value="suspend" />
       <item value="emitter" />
@@ -50,12 +51,11 @@
       <item value="intersect" />
       <item value="probe" />
       <item value="Orphan" />
-      <item value="crumb" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="499" />
-        <entry key="ENGLISH" value="500" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
