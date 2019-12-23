@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Audit" />
       <item value="Approve" />
       <item value="Protection" />
       <item value="sanity" />
@@ -16,7 +17,6 @@
       <item value="assigning" />
       <item value="generated" />
       <item value="deletion" />
-      <item value="Audit" />
       <item value="Unstable" />
       <item value="phase" />
       <item value="state" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="505" />
-        <entry key="ENGLISH" value="506" />
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
