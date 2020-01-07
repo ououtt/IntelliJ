@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Registry" />
       <item value="improvement" />
       <item value="forking" />
       <item value="emitter" />
@@ -50,12 +51,11 @@
       <item value="Avoidance" />
       <item value="Submit" />
       <item value="Quarantined" />
-      <item value="Delivery" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="CATALAN" value="1" />
