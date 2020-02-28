@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Descriptor" />
       <item value="Emits" />
       <item value="literal" />
       <item value="pipeline" />
@@ -50,14 +51,14 @@
       <item value="nominated" />
       <item value="STABLE" />
       <item value="CANCELLED" />
-      <item value="ABORTED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="532" />
+        <entry key="CHINESE" value="533" />
         <entry key="ENGLISH" value="533" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
+        <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="PORTUGUESE" value="3" />
