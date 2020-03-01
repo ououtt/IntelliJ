@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="spend" />
       <item value="Descriptor" />
       <item value="Emits" />
       <item value="literal" />
@@ -50,12 +51,11 @@
       <item value="condition" />
       <item value="nominated" />
       <item value="STABLE" />
-      <item value="CANCELLED" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="ENGLISH" value="534" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GALICIAN" value="1" />
