@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Relate" />
+      <item value="relate" />
+      <item value="releate" />
       <item value="spend" />
       <item value="Descriptor" />
       <item value="Emits" />
@@ -48,14 +51,11 @@
       <item value="Unstable" />
       <item value="phase" />
       <item value="state" />
-      <item value="condition" />
-      <item value="nominated" />
-      <item value="STABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="534" />
+        <entry key="CHINESE" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GALICIAN" value="1" />
