@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Scene" />
       <item value="Relate" />
       <item value="relate" />
       <item value="releate" />
@@ -50,12 +51,11 @@
       <item value="deletion" />
       <item value="Unstable" />
       <item value="phase" />
-      <item value="state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="537" />
+        <entry key="ENGLISH" value="538" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GALICIAN" value="1" />
