@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="UNKNWON" />
       <item value="Scene" />
       <item value="Relate" />
       <item value="relate" />
@@ -50,7 +51,6 @@
       <item value="generated" />
       <item value="deletion" />
       <item value="Unstable" />
-      <item value="phase" />
     </histories>
     <option name="languageScores">
       <map>
