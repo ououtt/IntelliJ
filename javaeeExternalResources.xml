@@ -4,6 +4,7 @@
     <resource url="http://ehcache.org/ehcache.xsd" location="$USER_HOME$/Library/Caches/IntelliJIdea2018.3/extResources/39e8daee_ehcache.xsd" />
     <resource url="http://mybatis.org/schema/mybatis-spring-1.2.xsd" location="$USER_HOME$/maven/localRepository/org/mybatis/mybatis-spring/1.2.5/mybatis-spring-1.2.5.jar!/org/mybatis/spring/config/mybatis-spring-1.2.xsd" />
     <resource url="http://mybatis.org/schema/mybatis-spring.xsd" location="$USER_HOME$/maven/localRepository/org/mybatis/mybatis-spring/1.2.5/mybatis-spring-1.2.5.jar!/org/mybatis/spring/config/mybatis-spring-1.2.xsd" />
+    <resource url="http://www.springframework.org/dtd/spring-beans.dtd" location="$USER_HOME$/Library/Caches/IntelliJIdea2019.3/extResources/5b169fd5_spring-beans.dtd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop-2.0.xsd" location="$USER_HOME$/maven/localRepository/org/springframework/spring-aop/4.2.5.RELEASE/spring-aop-4.2.5.RELEASE.jar!/org/springframework/aop/config/spring-aop-2.0.xsd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop-2.5.xsd" location="$USER_HOME$/maven/localRepository/org/springframework/spring-aop/4.2.5.RELEASE/spring-aop-4.2.5.RELEASE.jar!/org/springframework/aop/config/spring-aop-2.5.xsd" />
     <resource url="http://www.springframework.org/schema/aop/spring-aop-3.0.xsd" location="$USER_HOME$/maven/localRepository/org/springframework/spring-aop/4.2.5.RELEASE/spring-aop-4.2.5.RELEASE.jar!/org/springframework/aop/config/spring-aop-3.0.xsd" />
