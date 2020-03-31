@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multi Group" />
+      <item value="forbidden" />
       <item value="Splicer" />
       <item value="Abstract Min Validator" />
       <item value="Clinch" />
@@ -49,13 +51,11 @@
       <item value="invalid" />
       <item value="destroy" />
       <item value="destory" />
-      <item value="suspend" />
-      <item value="collision" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="545" />
+        <entry key="CHINESE" value="546" />
+        <entry key="ENGLISH" value="547" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GALICIAN" value="1" />
