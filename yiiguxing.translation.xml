@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="rejected" />
+      <item value="Abort" />
+      <item value="invalid" />
       <item value="load factor" />
       <item value="MANMADE" />
       <item value="Matrices" />
@@ -48,19 +51,17 @@
       <item value="sensitive" />
       <item value="Registry" />
       <item value="improvement" />
-      <item value="forking" />
-      <item value="emitter" />
-      <item value="Disposable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="559" />
+        <entry key="ENGLISH" value="560" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
         <entry key="ROMANIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="3" />
         <entry key="JAPANESE" value="2" />
         <entry key="SWEDISH" value="1" />
