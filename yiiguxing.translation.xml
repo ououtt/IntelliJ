@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Duplex" />
       <item value="drain" />
       <item value="Flyweight" />
       <item value="output Fused" />
@@ -50,12 +51,11 @@
       <item value="Extension" />
       <item value="inject" />
       <item value="assignable" />
-      <item value="last" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="572" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="573" />
+        <entry key="ENGLISH" value="574" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="1" />
