@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inside" />
       <item value="accumulate" />
       <item value="Constraint" />
       <item value="clinch" />
@@ -50,12 +51,11 @@
       <item value="Relate" />
       <item value="relate" />
       <item value="releate" />
-      <item value="spend" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="590" />
-        <entry key="ENGLISH" value="591" />
+        <entry key="CHINESE" value="591" />
+        <entry key="ENGLISH" value="592" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
