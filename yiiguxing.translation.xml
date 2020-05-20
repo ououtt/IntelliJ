@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decision" />
       <item value="Prescription" />
       <item value="Audit" />
       <item value="decision" />
-      <item value="Decision" />
       <item value="reverse" />
       <item value="Potential" />
       <item value="Sharding" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="599" />
-        <entry key="ENGLISH" value="600" />
+        <entry key="CHINESE" value="605" />
+        <entry key="ENGLISH" value="606" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
