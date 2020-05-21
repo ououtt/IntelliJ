@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="Decision" />
+      <item value="Frequency" />
       <item value="Prescription" />
       <item value="Audit" />
       <item value="decision" />
@@ -16,7 +17,6 @@
       <item value="potential" />
       <item value="POTENTIAL" />
       <item value="Clinch" />
-      <item value="Frequency" />
       <item value="literal" />
       <item value="Flux" />
       <item value="priority" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="605" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="CHINESE" value="607" />
+        <entry key="ENGLISH" value="608" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
