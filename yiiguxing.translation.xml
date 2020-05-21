@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="permitted" />
       <item value="Decision" />
       <item value="Index" />
       <item value="Frequency" />
@@ -50,12 +51,11 @@
       <item value="Facts" />
       <item value="multi Group" />
       <item value="forbidden" />
-      <item value="Splicer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="609" />
-        <entry key="ENGLISH" value="610" />
+        <entry key="CHINESE" value="610" />
+        <entry key="ENGLISH" value="611" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
