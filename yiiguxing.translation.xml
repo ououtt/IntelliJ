@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="async" />
       <item value="Terminal" />
       <item value="fire" />
       <item value="Sequential" />
@@ -50,12 +51,11 @@
       <item value="invalid" />
       <item value="load factor" />
       <item value="MANMADE" />
-      <item value="Matrices" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="619" />
-        <entry key="ENGLISH" value="620" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
