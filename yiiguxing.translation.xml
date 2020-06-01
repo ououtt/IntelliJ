@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decision" />
+      <item value="Event Decision" />
       <item value="quartz" />
       <item value="decisiontables" />
       <item value="quorum" />
@@ -14,7 +16,6 @@
       <item value="Internal" />
       <item value="expander" />
       <item value="permitted" />
-      <item value="Decision" />
       <item value="Index" />
       <item value="Frequency" />
       <item value="Prescription" />
@@ -50,12 +51,11 @@
       <item value="duplicate" />
       <item value="Mono" />
       <item value="rejected" />
-      <item value="Abort" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="622" />
-        <entry key="ENGLISH" value="623" />
+        <entry key="CHINESE" value="624" />
+        <entry key="ENGLISH" value="625" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
