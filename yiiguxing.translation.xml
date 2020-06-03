@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hibernate" />
+      <item value="hibernate Properties" />
       <item value="PESSIMISTIC" />
       <item value="vendor" />
       <item value="avoid" />
@@ -49,13 +51,11 @@
       <item value="Regular" />
       <item value="Setup" />
       <item value="Resume" />
-      <item value="multiplexer" />
-      <item value="resume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="628" />
+        <entry key="CHINESE" value="629" />
+        <entry key="ENGLISH" value="630" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
