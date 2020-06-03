@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TIME SOFT" />
+      <item value="TIME HARD" />
       <item value="hibernate" />
       <item value="hibernate Properties" />
       <item value="PESSIMISTIC" />
@@ -49,13 +51,11 @@
       <item value="output Fused" />
       <item value="Fused" />
       <item value="Regular" />
-      <item value="Setup" />
-      <item value="Resume" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="629" />
-        <entry key="ENGLISH" value="630" />
+        <entry key="CHINESE" value="631" />
+        <entry key="ENGLISH" value="632" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
