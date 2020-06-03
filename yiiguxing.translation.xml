@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expires" />
+      <item value="Duration" />
       <item value="explicit" />
       <item value="TIME SOFT" />
       <item value="TIME HARD" />
@@ -49,13 +51,11 @@
       <item value="Duplex" />
       <item value="drain" />
       <item value="Flyweight" />
-      <item value="output Fused" />
-      <item value="Fused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="632" />
-        <entry key="ENGLISH" value="633" />
+        <entry key="CHINESE" value="634" />
+        <entry key="ENGLISH" value="635" />
         <entry key="ARABIC" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
