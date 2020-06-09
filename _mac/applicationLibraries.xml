@@ -18,7 +18,15 @@
       <JAVADOC>
         <root url="https://www.scala-lang.org/api/2.12.11/" />
       </JAVADOC>
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/scala/scala-2.12.11/lib/scala-library.jar!/" />
+        <root url="file://$USER_HOME$/scala/scala-2.12.11/src/compiler" />
+        <root url="file://$USER_HOME$/scala/scala-2.12.11/src/library" />
+        <root url="file://$USER_HOME$/scala/scala-2.12.11/src/partest-extras" />
+        <root url="file://$USER_HOME$/scala/scala-2.12.11/src/partest-javaagent" />
+        <root url="file://$USER_HOME$/scala/scala-2.12.11/src/reflect" />
+        <root url="file://$USER_HOME$/scala/scala-2.12.11/src/repl" />
+      </SOURCES>
     </library>
   </component>
 </application>
