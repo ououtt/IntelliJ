@@ -4,6 +4,7 @@
       <mapping pattern="LOG_FILE_IS_UNDEFINED" type="PLAIN_TEXT" />
       <mapping pattern="README.md" type="PLAIN_TEXT" />
       <mapping ext="dslr" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
       <mapping ext="drt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
