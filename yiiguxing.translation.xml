@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infrastructure" />
       <item value="Politeness" />
       <item value="Millisecond" />
       <item value="Microsecond" />
@@ -50,12 +51,11 @@
       <item value="Prescription" />
       <item value="Audit" />
       <item value="decision" />
-      <item value="reverse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="652" />
-        <entry key="ENGLISH" value="653" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="654" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BASQUE" value="1" />
