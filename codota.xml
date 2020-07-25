@@ -1,0 +1,39 @@
+<application>
+  <component name="CodotaSettings">
+    <option name="methodCompletionsPercentageSet" value="true" />
+    <option name="id" value="02b16741-655d-4ec1-86aa-52b302a1c96c" />
+    <option name="wasRunBefore" value="true" />
+    <option name="firstRun" value="1590464877933" />
+    <option name="generation" value="104" />
+    <option name="updateGeneration" value="1" />
+    <option name="isInJSBeta" value="NO" />
+    <option name="isMethodCompletionsPercentageActive" value="true" />
+    <option name="isMethodCompletionsPercentageSet" value="true" />
+    <option name="featureFlags">
+      <map>
+        <entry key="deep-completions" value="true" />
+      </map>
+    </option>
+    <option name="testedFeatureFlags">
+      <set>
+        <option value="deep-completions" />
+      </set>
+    </option>
+    <option name="everTurnedOnFeatureFlags">
+      <set>
+        <option value="deep-completions" />
+      </set>
+    </option>
+    <option name="completeIndexingProjects">
+      <map>
+        <entry key="2604fcd1" value="2" />
+        <entry key="849b51ca" value="1" />
+      </map>
+    </option>
+    <option name="usedLanguages">
+      <set>
+        <option value="java" />
+      </set>
+    </option>
+  </component>
+</application>

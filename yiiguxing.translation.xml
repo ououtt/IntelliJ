@@ -1,66 +1,69 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="reverse" />
-      <item value="Potential" />
-      <item value="Sharding" />
-      <item value="Precise" />
-      <item value="Inside" />
-      <item value="accumulate" />
-      <item value="Constraint" />
-      <item value="clinch" />
-      <item value="potential" />
-      <item value="POTENTIAL" />
-      <item value="Clinch" />
+      <item value="Immutable" />
+      <item value="infrastructure" />
+      <item value="Politeness" />
+      <item value="Millisecond" />
+      <item value="Microsecond" />
+      <item value="Semantic" />
+      <item value="Malformed" />
+      <item value="Reset" />
+      <item value="Generic" />
+      <item value="compatibility" />
+      <item value="Compact" />
+      <item value="COMPACT" />
+      <item value="Assignable" />
+      <item value="Comment" />
+      <item value="divide" />
+      <item value="Paralle" />
+      <item value="Tokenizer" />
+      <item value="Multi" />
+      <item value="Mutli" />
+      <item value="Mutil" />
+      <item value="exist" />
+      <item value="Expires" />
+      <item value="Duration" />
+      <item value="explicit" />
+      <item value="TIME SOFT" />
+      <item value="TIME HARD" />
+      <item value="hibernate" />
+      <item value="hibernate Properties" />
+      <item value="PESSIMISTIC" />
+      <item value="vendor" />
+      <item value="avoid" />
+      <item value="Decision" />
+      <item value="Event Decision" />
+      <item value="quartz" />
+      <item value="decisiontables" />
+      <item value="quorum" />
+      <item value="async" />
+      <item value="Terminal" />
+      <item value="fire" />
+      <item value="Sequential" />
+      <item value="Deactivate" />
+      <item value="Modifications" />
+      <item value="Agenda" />
+      <item value="Internal" />
+      <item value="expander" />
+      <item value="permitted" />
+      <item value="Index" />
       <item value="Frequency" />
-      <item value="literal" />
-      <item value="Flux" />
-      <item value="priority" />
-      <item value="exceeded" />
-      <item value="threshold" />
-      <item value="Inference" />
-      <item value="Duplex" />
-      <item value="drain" />
-      <item value="Flyweight" />
-      <item value="output Fused" />
-      <item value="Fused" />
-      <item value="Regular" />
-      <item value="Setup" />
-      <item value="Resume" />
-      <item value="multiplexer" />
-      <item value="resume" />
-      <item value="duplicate" />
-      <item value="Mono" />
-      <item value="rejected" />
-      <item value="Abort" />
-      <item value="invalid" />
-      <item value="load factor" />
-      <item value="MANMADE" />
-      <item value="Matrices" />
-      <item value="Builder" />
-      <item value="contained" />
-      <item value="indicate" />
-      <item value="evaluate" />
-      <item value="Composite" />
-      <item value="Facts" />
-      <item value="multi Group" />
-      <item value="forbidden" />
-      <item value="Splicer" />
-      <item value="Abstract Min Validator" />
-      <item value="General" />
-      <item value="CLINCH" />
-      <item value="UNKNWON" />
-      <item value="Scene" />
+      <item value="Prescription" />
+      <item value="Audit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="595" />
-        <entry key="ENGLISH" value="596" />
+        <entry key="CHINESE" value="654" />
+        <entry key="ENGLISH" value="655" />
         <entry key="ARABIC" value="1" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="BASQUE" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="FRENCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="CATALAN" value="1" />
+        <entry key="LATIN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="3" />
