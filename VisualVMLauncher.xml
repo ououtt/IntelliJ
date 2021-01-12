@@ -1,0 +1,8 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="delayForVisualVMStart" value="5000" />
+    <option name="jdkHome" value="" />
+    <option name="useModuleJdk" value="false" />
+    <option name="visualVmExecutable" value="/Library/Java/JavaVirtualMachines/jdk1.8.0_202.jdk/Contents/Home/bin/jvisualvm" />
+  </component>
+</application>
