@@ -1,0 +1,25 @@
+<application>
+  <component name="libraryTable">
+    <library name="clojure-1.10.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/clojure/clojure-1.10.1.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="core.specs.alpha-0.2.44">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/clojure/core.specs.alpha-0.2.44.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="spec.alpha-0.2.187">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/clojure/spec.alpha-0.2.187.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
